@@ -58,6 +58,21 @@ FastVigorBar.L_enUS = {
 
 	-- Optional (if you add a Blizzard/IceHUD-atlas theme)
 	THEME_ICEHUD = "Blizzard Vigor (Atlas)",
+	-- New SINGLE themes (code overlays)
+	THEME_SINGLE_NEON_DIAGONAL   = "Neon (Diagonal Stripes)",
+	THEME_SINGLE_OUTRUN_CHEVRON  = "Outrun (Chevron)",
+	THEME_SINGLE_FEL_DIAGONAL    = "Fel (Diagonal Stripes)",
+	THEME_SINGLE_ICE_SCANLINES   = "Ice (Scanlines)",
+	THEME_SINGLE_CARBON_GRID     = "Carbon (Grid)",
+	THEME_SINGLE_GOLD_DIAGONAL   = "Gold (Diagonal Stripes)",
+	THEME_SINGLE_BLOOD_CHEVRON   = "Blood (Chevron)",
+	THEME_SINGLE_ARCANE_DIAGONAL = "Arcane (Diagonal Stripes)",
+	THEME_SINGLE_MINT_GLASS      = "Mint (Glass)",
+
+	THEME_SINGLE_HEAT_SHEAR      = "Heat (Slanted Bar)",
+	THEME_SINGLE_NEON_SHEAR      = "Neon (Slanted Bar)",
+	THEME_SINGLE_CARBON_SHEAR    = "Carbon (Slanted Bar)",
+	THEME_SINGLE_ARCANE_SHEAR    = "Arcane (Slanted Bar)",
 }
 
 -- build enUS baseline into live L on enUS clients

@@ -60,3 +60,18 @@ L.THEME_HEAT = "Hitze-Verlauf"
 
 -- Optional (für IceHUD-/Blizzard-ähnliches Theme)
 L.THEME_ICEHUD = "Blizzard-Vigor"
+-- Neue SINGLE Themes (Code-Overlays)
+L.THEME_SINGLE_NEON_DIAGONAL   = "Neon (Schrägstreifen)"
+L.THEME_SINGLE_OUTRUN_CHEVRON  = "Outrun (Chevron)"
+L.THEME_SINGLE_FEL_DIAGONAL    = "Fel (Schrägstreifen)"
+L.THEME_SINGLE_ICE_SCANLINES   = "Eis (Scanlines)"
+L.THEME_SINGLE_CARBON_GRID     = "Carbon (Grid)"
+L.THEME_SINGLE_GOLD_DIAGONAL   = "Gold (Schrägstreifen)"
+L.THEME_SINGLE_BLOOD_CHEVRON   = "Blut (Chevron)"
+L.THEME_SINGLE_ARCANE_DIAGONAL = "Arkan (Schrägstreifen)"
+L.THEME_SINGLE_MINT_GLASS      = "Mint (Glass)"
+
+L.THEME_SINGLE_HEAT_SHEAR      = "Heat (Schräger Balken)"
+L.THEME_SINGLE_NEON_SHEAR      = "Neon (Schräger Balken)"
+L.THEME_SINGLE_CARBON_SHEAR    = "Carbon (Schräger Balken)"
+L.THEME_SINGLE_ARCANE_SHEAR    = "Arkan (Schräger Balken)"

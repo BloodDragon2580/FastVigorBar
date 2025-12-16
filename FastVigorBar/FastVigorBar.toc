@@ -2,7 +2,7 @@
 ## Title:|cffd6266cFastVigorBar|r
 ## Notes: Minimal Skyriding/Vigor bar with themes + options
 ## Author: BloodDragon2580
-## Version: 1.0
+## Version: 1.1
 ## IconTexture: Interface\AddOns\FastVigorBar\Media\Texture\logo
 ## SavedVariables: FastVigorBarDB
 

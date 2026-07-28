@@ -1,8 +1,8 @@
-## Interface: 120007, 120005
+## Interface: 120100, 120007, 120005
 ## Title:|cffd6266cFastVigorBar|r
 ## Notes: Minimal Skyriding/Vigor bar with themes + options
 ## Author: BloodDragon2580
-## Version: 2
+## Version: 2.1
 ## IconTexture: Interface\AddOns\FastVigorBar\Media\Texture\logo
 ## SavedVariables: FastVigorBarDB
 
